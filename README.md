@@ -54,7 +54,8 @@ The dataset is stored and processed using Python. It contains structured records
 ### 1. Clone Repository
 
 ```bash
- https://github.com/expanse88/Customer-behavior-analysis.git
+ git clone https://github.com/expanse88/Customer-behavior-analysis.git
+ cd Customer-behavior-analysis
 ```
 
 ### 2. Install Dependencies
