@@ -114,5 +114,4 @@ It is designed for quick decision-making and clear business storytelling.
 
 Harshit Nahata
  
-
-Just tell me your dataset theme 👍
+ 
